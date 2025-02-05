@@ -1,5 +1,5 @@
 
-**CONCURRENT SOCKET SYSTEM**
+**TICKET BOOKING SYSTEM**
 
 This is a train ticket booking system where users can search, book, and cancel train tickets. It also handles user authentication and seat availability in real-time.
 
